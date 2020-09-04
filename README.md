@@ -25,7 +25,6 @@ Go to `/index.html` and fill your information, there are 4 sections:
 - Add your Name and a short description about yourself
 - Add your social media links 
 ```html
-<!--─────────────────Home────────────────-->
 <div id="home">
 	<div class="filter"></div>
 	<section class="intro">
@@ -48,7 +47,6 @@ Go to `/index.html` and fill your information, there are 4 sections:
 ### Projects Section
 - Add your short description ,the image of your projects and their links you can change the number of projects.
 ```html	 
-<!--───────────────Projects───────────────-->
 	  <div id="projects"> 
 		 <h3>My Projects.<hr></h3>
 		  <p>Here are some of my projects, you may like.</p>
@@ -88,6 +86,40 @@ Go to `/index.html` and fill your information, there are 4 sections:
 		  </div>
 		  </div>
 	  </div>
+```
+### Contact Section
+- Add your social media links 
+```html
+	  <div id="contact">
+		  <!--────social media links─────-->
+		   <h3>Contact.<hr></h3>
+		   <p>Feel free to contact me on my social media.</p>
+		    <div class="social-media">
+			  <a href="#" target="_blank"><i class='fab fa-codepen'></i></a>
+			  <a href="#" target="_blank"><i class='fab fa-twitter'></i></a>
+			  <a href="#" target="_blank"><i class='fab fa-github'></i></a>
+			  <a href="#" target="_blank"><i class='fab fa-linkedin-in'></i></a>
+			  <a href="#" target="_blank"><i class="fab fa-youtube"></i></a>
+		    </div>
+		  </div>
+```
+## Deployment 📦
+
+Once you have done with your setup. You need to put your website online!
+
+I highly recommend to use [Github Pages](https://pages.github.com/) to achieve this on the EASIEST WAY.You can also do it with [Netlify](https://netlify.com).
+
+## Authors
+
+- **Achal Jhawar** - [https://github.com/achaljhawar](https://github.com/achaljhawar)
+
+## License 📄
+
+This project is licensed under the Apache-2.0 License - see the [LICENSE.md](LICENSE.md) file for details
+
+
+
+
 
 
 
