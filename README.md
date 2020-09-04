@@ -1,4 +1,4 @@
-# Devfolio
+# DevFolio
 This is a simple responsive portfolio website template . You can use it and make it yours by changing things and colors to your style and liking! I made it with a lot of hard work, love and of course with code :) I'm not a professional coder, but i tried my best to make it look cool and yet still keep it simple. 
 
 > Mistakes are proof that we are trying!
