@@ -107,7 +107,7 @@ Go to `/index.html` and fill your information, there are 4 sections:
 
 Once you have done with your setup. You need to put your website online!
 
-I highly recommend to use [Github Pages](https://pages.github.com/) to achieve this on the EASIEST WAY.You can also do it with [Netlify](https://netlify.com).
+I highly recommend to use [Github Pages](https://pages.github.com/) to achieve this on the EASIEST WAY.
 
 ## Authors
 
