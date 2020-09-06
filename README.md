@@ -14,7 +14,7 @@ I learned so much while making this template, if you use it, please let me know.
 + **Unsplash** for Images 
 
 You can add more things to make it even cooler! The comments in the code will help you navigate through it. Have a nice day! :D 
-<a href="https://achaljhawar.github.io/Devfolio/">Demo Example</a>
+<a href="https://achaljhawar.github.io/DevFolio/">Demo Example</a>
 ## Getting Started 🚀
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
