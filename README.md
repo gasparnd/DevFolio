@@ -117,6 +117,11 @@ I highly recommend to use [Github Pages](https://pages.github.com/) to achieve t
 
 This project is licensed under the Apache-2.0 License - see the [LICENSE](LICENSE) file for details
 
+## 🤝 Contributing
+
+Any idea on how we can make this more awesome ? [Open a new issue](https://github.com/achaljhawar/DevFolio/issues)!  We need all the help we can get to make this project awesome!
+
+
 
 
 
