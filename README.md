@@ -121,7 +121,7 @@ This project is licensed under the Apache-2.0 License - see the [LICENSE](LICENS
 
 Any idea on how we can make this more awesome ? [Open a new issue](https://github.com/achaljhawar/DevFolio/issues)!  We need all the help we can get to make this project awesome!
 
-
+### Don't forget to ⭐ the repository and share it with others.
 
 
 
