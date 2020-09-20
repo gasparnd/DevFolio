@@ -24,7 +24,7 @@ You can add more things to make it even cooler! The comments in the code will he
 ## Getting Started 🚀
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 ## Downloading Template
-To download and use this template you could use `git clone` or `npx degit` to download this template to fill it out.
+To download and use this template you could use `git clone` or `npx degit` to download this template to fill it out. You could also just fork this repository on Github.
 ## Template Instructions:
 Go to `/index.html` and fill your information, there are 3 sections:
 ### Home Section
