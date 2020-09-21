@@ -28,10 +28,10 @@ To download and use this template you could use `git clone` or `npx degit` to do
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/achaljhawar/devFolio.git
+$ git clone https://github.com/achaljhawar/DevFolio.git
 
 # Go into the repository
-$ cd devFolio
+$ cd DevFolio
 
 # Install dependencies
 $ npm install
