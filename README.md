@@ -23,6 +23,8 @@ You can add more things to make it even cooler! The comments in the code will he
 
 ## Getting Started 🚀
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+## Downloading Template
+To download and use this template you could use `git clone` or `npx degit` to download this template to fill it out. You could also just fork this repository on Github.
 ## Template Instructions:
 Go to `/index.html` and fill your information, there are 3 sections:
 ### Home Section
@@ -38,10 +40,10 @@ Go to `/index.html` and fill your information, there are 3 sections:
         <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit.</p>
 <!--────social media links─────-->		 
 		  <div class="social-media">
-			  <a href="#" target="_blank"><i class='fab fa-codepen'></i></a>
-			  <a href="#" target="_blank"><i class='fab fa-twitter'></i></a>
-			  <a href="#" target="_blank"><i class='fab fa-github'></i></a>
-			  <a href="#" target="_blank"><i class='fab fa-linkedin-in'></i></a>
+			  <a href="#" target="_blank"><i class="fab fa-codepen"></i></a>
+			  <a href="#" target="_blank"><i class="fab fa-twitter"></i></a>
+			  <a href="#" target="_blank"><i class="fab fa-github"></i></a>
+			  <a href="#" target="_blank"><i class="fab fa-linkedin-in"></i></a>
 			  <a href="#" target="_blank"><i class="fab fa-youtube"></i></a>
 		    </div>
 			 
@@ -99,10 +101,10 @@ Go to `/index.html` and fill your information, there are 3 sections:
 		   <h3>Contact.<hr></h3>
 		   <p>Feel free to contact me on my social media.</p>
 		    <div class="social-media">
-			  <a href="#" target="_blank"><i class='fab fa-codepen'></i></a>
-			  <a href="#" target="_blank"><i class='fab fa-twitter'></i></a>
-			  <a href="#" target="_blank"><i class='fab fa-github'></i></a>
-			  <a href="#" target="_blank"><i class='fab fa-linkedin-in'></i></a>
+			  <a href="#" target="_blank"><i class="fab fa-codepen"></i></a>
+			  <a href="#" target="_blank"><i class="fab fa-twitter"></i></a>
+			  <a href="#" target="_blank"><i class="fab fa-github"></i></a>
+			  <a href="#" target="_blank"><i class="fab fa-linkedin-in"></i></a>
 			  <a href="#" target="_blank"><i class="fab fa-youtube"></i></a>
 		    </div>
 		  </div>
