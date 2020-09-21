@@ -174,7 +174,7 @@ a.nav-link{
 	color: var(--main-fonts-color);
 }
 #projects h3{
-    padding-top: 70px;
+    padding: 0.5em;
 }
 #projects p{
 	font-family: var(--main-font-family);
@@ -183,7 +183,7 @@ a.nav-link{
 }
 
 .work{
-	display: flex; 
+	/*display: flex; */
 	flex: 1;
     flex-wrap: wrap;
     justify-content:center;
@@ -193,16 +193,16 @@ a.nav-link{
 
 .card{
 	display: flex;
-	flex-direction: column;
-	margin: 20px;
-	width: 200px;
-	height:250px;
+	margin: 20px 0;
+	padding: 2em .3em;
+	width: 100%;
+	height: auto;
 	border-radius:12px;
     background:var(--main-decor-color);
 }
 
 .card img{
-	width: 100%;
+	width: 50%;
 	height:70%;
 	border-radius:10px 10px 0px 0px;
 }
