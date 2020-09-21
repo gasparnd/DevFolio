@@ -175,10 +175,11 @@ a.nav-link{
 }
 #projects h3{
     padding: 0.5em;
+    font-size: calc(1em + 2vw);
 }
 #projects p{
 	font-family: var(--main-font-family);
-	font-size:1.2rem;
+	font-size: calc(1em + .5vw);
 	padding: 10px;
 }
 
@@ -212,26 +213,33 @@ a.nav-link{
 	height: 100%;
 }
 
-.card .work-content{
+.work-content{
 	text-align: center;
+	flex-direction: column;
 	padding: 10px 5px;
-	font-size: 1rem;
 	width: 50%;
 	color: var(--main-fonts-color);
 	font-family: var(--main-font-family);
-	cursor: pointer;
+	/*cursor: pointer;*/
 }
 
-.card a{
+.work-link{
 	text-decoration: none;
-}
-
-.card .work-content:hover{
-    color:#202020;
+	font-size: calc(1em + 1vw);
+	display: block;
+	text-align: right;
+	width: 1em;
+	height: 1em;
+	color: var(--main-fonts-color);
 }
 
 .card:hover{
 	box-shadow: 0 0 1.5rem gray;
+}
+
+.work-link:hover {
+	color: #00a9e2;
+	text-shadow: 0 0 50px var(--main-decor-color);
 }
 
 /*──────────────────
@@ -358,15 +366,38 @@ hr {
 
 @media only screen and (max-width: 1484px) and (min-width: 1214px) {
 	.work{
-        padding:20px 20%;
+        /*padding:20px 20%;*/
     }
 }
 @media only screen and (max-width: 1214px) and (min-width: 1000px) {
-	.work{
-        padding:20px 12%;
-    }
+    
 }
 
+@media screen and (max-width: 767px) {
+
+	.card {
+    	flex-direction: column;
+    	width: 100%;
+    }
+
+    .card figure {
+    	height: 50%;
+    	width: 100%;
+    }
+
+    .work-content {
+    	height: 50%;
+    	width: 100%;
+    }
+
+    #projects h3 {
+    	padding: 0;
+    }
+
+    .work-description {
+    	text-align: left;
+    }
+}
 
 @media only screen and (max-width: 500px) {
 
