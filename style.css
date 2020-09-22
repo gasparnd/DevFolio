@@ -82,103 +82,53 @@ a.nav-link{
        home
 ──────────────────*/
 
+#home{ 	
+	margin: auto;
+	height: 100vh;
+	color: var(--main-fonts-color);
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: space-evenly;
+}
+
 #home .filter{
 	background: url('https://images.unsplash.com/photo-1544099858-75feeb57f01b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80') no-repeat;
 	background-size: cover;
 	background-position:center;
-	position: absolute;
-	top: 0px;
-	bottom: 0;
-	left: 0;
-	right: 0;
+    position: absolute;
+    top: 0px;
+    bottom: 0;
+    left: 0;
+    right: 0;
 	opacity:.20;
-	overflow-x: hidden;
-}
+}  
 
 .intro {
 	text-align:center;
-	color: var(--main-fonts-color);
+    color: var(--main-fonts-color);
 	z-index: 1;
 	margin: auto;
-	/* padding: 20px; */
-}
-
-.just{
-	align-items: center;
-	width: auto;
-	max-width: 800px;
-	margin: auto;
-	font-size:1.2rem;
-	font-family: var(--main-font-family);
-	text-align: justify;
+	padding: 20px;
 }
 
 .intro  p{
-	align-items: center;
-	max-width: 500px;
-	margin: auto;
+    margin: 5px;
 	font-size:1.2rem;
 	font-family: var(--main-font-family);
-	text-align: center;
+	text-align:center;
 }
 
-
-h3{
+ h3{
 	padding-bottom: 15px;
-	letter-spacing: normal;
-	font-family: var(--main-font-family);
+    letter-spacing: normal;
+    font-family: var(--main-font-family);
 	font-style: normal;
 	font-size: 60px;
-	text-align: center;
 	color: var(--main-fonts-color);
 	text-shadow: 0px 0px 40px var(--main-decor-color);
 }
 
-h2{
-	padding-bottom: 10px;
-	letter-spacing: normal;
-	font-family: var(--main-font-family);
-	font-style: normal;
-	font-size: 25px;
-	text-shadow: 0px 0px 40px var(--main-decor-color);
-}
-
-h1{
-	padding-bottom: 10px;
-	letter-spacing: normal;
-	font-family: var(--main-font-family);
-	font-style: normal;
-	font-size: 16px;
-	text-shadow: 0px 0px 40px var(--main-decor-color);
-}
-/*──────────────────
-    social media
-──────────────────*/
-
-.social-media{
-	padding: 10px;
-	display: flex;
-	position: center;
-    align-items: space-around;
-	justify-content:center;
-}
-
-.social-media a {
-    margin: 10px;
-    font-size: 2rem;
-    text-align:center;
-    display: inline-block;
-	color: var(--main-fonts-color);
-}
-
-.social-media a i{
-	cursor: pointer;
-}
-
-.social-media  a:hover {
-	color: var(--main-decor-color);
-	text-shadow: 0 0 50px var(--main-decor-color);
-}
 
 /*──────────────────
       projects
