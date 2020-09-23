@@ -1,7 +1,6 @@
 # DevFolio 
 <a href = "https://github.com/achaljhawar/DevFolio/graphs/contributors"><a href="https://github.com/achaljhawar/DevFolio/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/achaljhawar/DevFolio"></a><a href="https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fachaljhawar%2FDevFolio"><img alt="Twitter" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2F"></a><a href="https://github.com/achaljhawar/DevFolio/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/achaljhawar/DevFolio"></a><img src="https://img.shields.io/badge/awesomeness-extreme-green"><br />
 This is a simple responsive portfolio website template . You can use it and make it yours by changing things and colors to your style and liking! I made it with a lot of hard work, love and of course with code :) I'm not a professional coder, but i tried my best to make it look cool and yet still keep it simple. 
-
 > Mistakes are proof that we are trying!
 
 I learned so much while making this template, if you use it, please let me know. I would love to see how amazing people can make it! I hope you'll like it!
@@ -138,9 +137,9 @@ I highly recommend to use [Github Pages](https://pages.github.com/) to achieve t
 
 This project is licensed under the Apache-2.0 License - see the [LICENSE](LICENSE) file for details
 
-## 🤝 Contributing
+## 🤝 Contributing <img alt="Discord" src="https://img.shields.io/discord/758269170151587852">
 
-Any idea on how we can make this more awesome ? [Open a new issue](https://github.com/achaljhawar/DevFolio/issues)!  We need all the help we can get to make this project awesome!
+Any idea on how we can make this more awesome ? [Open a new issue](https://github.com/achaljhawar/DevFolio/issues)!  We need all the help we can get to make this project awesome!  You can also join the discord server to give suggestions.
 
 ### Don't forget to ⭐ and 🍴 the repository and share it with others.
 
