@@ -144,6 +144,38 @@ Any idea on how we can make this more awesome ? [Open a new issue](https://githu
 
 ### Don't forget to ⭐ and 🍴 the repository and share it with others.
 
+## Stargazers ✨
+Thanks goes to these wonderful people.
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/SeraphicWolf"><img src="https://avatars1.githubusercontent.com/u/29392808?s=180&u=6bbb90ea2fa3549f6e63e266550084fd6b20fcff&v=4" width="100px;" alt=""/><br /><sub><b>Sebastian</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/GARVRC2005"><img src="https://avatars3.githubusercontent.com/u/71485440?s=180&u=bafc5164ca52a3632f7c7901f3e18b74bfa1331e&v=4" width="100px;" alt=""/><br /><sub><b>Garv Roy Choudhary</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/filippoferrando"><img src="https://avatars1.githubusercontent.com/u/26021902?s=180&u=4f622a3124ce23290e0dc0235dcba825cbe77ac6&v=4" width="100px;" alt=""/><br /><sub><b>Filippo Ferrando</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/shadowtime2000"><img src="https://avatars1.githubusercontent.com/u/66655515?s=180&v=4" width="100px;" alt=""/><br /><sub><b>Shadowtime2000</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/devded"><img src="https://avatars1.githubusercontent.com/u/60034035?s=180&u=affce39ad96481fd4d85c2fe9262e4400c1c5213&v=4" width="100px;" alt=""/><br /><sub><b>Dedar Alam</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/GJG"><img src="https://avatars1.githubusercontent.com/u/5757822?s=180&u=f6c0e00bded4fdab56ca8f14c165926d73f8eb08&v=4" width="100px;" alt=""/><br /><sub><b>Guðmundur Jón Guðjónsson</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/kdvalin"><img src="https://avatars1.githubusercontent.com/u/10466117?s=180&u=eae56f3a03e56ab7563f26e3272ab4f4090a37aa&v=4" width="100px;" alt=""/><br /><sub><b>keith</b></sub></a><br /></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/gasparnd"><img src="https://avatars3.githubusercontent.com/u/36377522?s=180&u=3b1f554c19b5dc2e21bf0aef269f44ee5bf87fdf&v=4" width="100px;" alt=""/><br /><sub><b>Gaspar Dolcemascolo</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/RegNex"><img src="https://avatars0.githubusercontent.com/u/19475061?s=180&u=63f8052e36fcb90e66e834c91327e6def4096230&v=4" width="100px;" alt=""/><br /><sub><b>Etornam Sunu</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/goxr3plus"><img src="https://avatars2.githubusercontent.com/u/20374208?s=180&u=912d063bbe2eb74d43447542957f5c2b9e8315bc&v=4" width="100px;" alt=""/><br /><sub><b>Alexander Kentros</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/ChristofBecu"><img src="https://avatars3.githubusercontent.com/u/16795074?s=180&u=263662c6399195b74fcb162272ca1e82affe108a&v=4" width="100px;" alt=""/><br /><sub><b>Christof Becu</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/AObuchow"><img src="https://avatars3.githubusercontent.com/u/10300119?s=180&u=ebb1e6154b6514b4000d273e479b5659ea3c7c72&v=4" width="100px;" alt=""/><br /><sub><b>Andrew O.
+</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/JLohani"><img src="https://avatars3.githubusercontent.com/u/32483331?s=180&u=4cd11b263dfa96b7ee297ac00a6d59fabe034aa6&v=4" width="100px;" alt=""/><br /><sub><b>Jayant Lohani</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/seegrand"><img src="https://avatars0.githubusercontent.com/u/12057066?s=180&u=38f38f2317f22e98a90e448d0685b0695b8c42d0&v=4" width="100px;" alt=""/><br /><sub><b>Sander Grandia
+</b></sub></a><br /></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/ukoms"><img src="https://avatars1.githubusercontent.com/u/777001?s=180&u=e2c960585fffab6d2140ade6159bde89859b46ed&v=4" width="100px;" alt=""/><br /><sub><b>Michał Kupczyński</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/zafaralam"><img src="https://avatars3.githubusercontent.com/u/1768203?s=180&v=4" width="100px;" alt=""/><br /><sub><b>Zafar Alam</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/jameshood118"><img src="https://avatars3.githubusercontent.com/u/18595004?s=180&u=0785571c38ee0c7966c4eb8197778c1b285b4098&v=4" width="100px;" alt=""/><br /><sub><b>James Hood </b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/120296Soumyaju"><img src="https://avatars2.githubusercontent.com/u/48637511?s=180&u=0191b32d231903f08918e1e5690b903331a898e8&v=4" width="100px;" alt=""/><br /><sub><b>Sujit Tadadikar </b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/Amarildoo"><img src="https://avatars0.githubusercontent.com/u/34867366?s=180&u=570814e30f05367f41f38cafc0a55b062e32423b&v=4" width="100px;" alt=""/><br /><sub><b>Amarildo Gjeçaj</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/shouryade"><img src="https://avatars0.githubusercontent.com/u/67991164?s=180&u=58b3040104aa4444c3c68e9891407b7c22e54b94&v=4" width="100px;" alt=""/><br /><sub><b>Shourya (AlphaQ)</b></sub></a><br /></td>
+  </tr>
+</table>
 
 
 
