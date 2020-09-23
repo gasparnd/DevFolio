@@ -137,7 +137,7 @@ I highly recommend to use [Github Pages](https://pages.github.com/) to achieve t
 
 This project is licensed under the Apache-2.0 License - see the [LICENSE](LICENSE) file for details
 
-## 🤝 Contributing <img alt="Discord" src="https://img.shields.io/discord/758269170151587852">
+## 🤝 Contributing <a href = "https://discord.gg/uDdH2p5"><img alt="Discord" src="https://img.shields.io/discord/758269170151587852"></a>
 
 Any idea on how we can make this more awesome ? [Open a new issue](https://github.com/achaljhawar/DevFolio/issues)!  We need all the help we can get to make this project awesome!  You can also join the discord server to give suggestions.
 
