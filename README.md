@@ -128,6 +128,23 @@ Once you have done with your setup. You need to put your website online!
 
 I highly recommend to use [Github Pages](https://pages.github.com/) to achieve this on the EASIEST WAY.
 
+## Author
+
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/achaljhawar"><img src="https://avatars2.githubusercontent.com/u/35405812?s=460&u=0cf54a210cd79440ebf51fdc7423b65877c87016&v=4" width="100px;" alt=""/><br /><sub><b>Achal Jhawar</b></sub></a><br /></td>
+  </tr>
+</table>	
+
+
+## License 📄  <a href = "https://github.com/achaljhawar/DevFolio/blob/master/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/achaljhawar/DevFolio?style=flat-square"></a>
+
+This project is licensed under the Apache-2.0 License - see the [LICENSE](LICENSE) file for details
+
+## 🤝 Contributing <a href = "https://discord.gg/uDdH2p5"><img alt="Discord" src="https://img.shields.io/discord/758269170151587852"></a>
+
+Any idea on how we can make this more awesome ? [Open a new issue](https://github.com/achaljhawar/DevFolio/issues)!  We need all the help we can get to make this project awesome!  You can also join the discord server to give suggestions.
+
 ## Contributors ✨
 <table>
   <tr>
@@ -135,18 +152,6 @@ I highly recommend to use [Github Pages](https://pages.github.com/) to achieve t
     <td align="center"><a href="https://github.com/gasparnd"><img src="https://avatars3.githubusercontent.com/u/36377522?s=180&u=3b1f554c19b5dc2e21bf0aef269f44ee5bf87fdf&v=4" width="100px;" alt=""/><br /><sub><b>Gaspar Dolcemascolo</b></sub></a><br /></td>
   </tr>
 </table>
-
-## Author
-
-- **Achal Jhawar** - [https://github.com/achaljhawar](https://github.com/achaljhawar)
-
-## License 📄 <a href = "https://github.com/achaljhawar/DevFolio/blob/master/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/achaljhawar/DevFolio?style=flat-square"></a>
-
-This project is licensed under the Apache-2.0 License - see the [LICENSE](LICENSE) file for details
-
-## 🤝 Contributing <a href = "https://discord.gg/uDdH2p5"><img alt="Discord" src="https://img.shields.io/discord/758269170151587852"></a>
-
-Any idea on how we can make this more awesome ? [Open a new issue](https://github.com/achaljhawar/DevFolio/issues)!  We need all the help we can get to make this project awesome!  You can also join the discord server to give suggestions.
 
 ### Don't forget to ⭐ and 🍴 the repository and share it with others.
 
