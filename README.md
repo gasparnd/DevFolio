@@ -129,6 +129,14 @@ Once you have done with your setup. You need to put your website online!
 
 I highly recommend to use [Github Pages](https://pages.github.com/) to achieve this on the EASIEST WAY.
 
+## Contributors ✨
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/shadowtime2000"><img src="https://avatars1.githubusercontent.com/u/66655515?s=180&v=4" width="100px;" alt=""/><br /><sub><b>Shadowtime2000</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/gasparnd"><img src="https://avatars3.githubusercontent.com/u/36377522?s=180&u=3b1f554c19b5dc2e21bf0aef269f44ee5bf87fdf&v=4" width="100px;" alt=""/><br /><sub><b>Gaspar Dolcemascolo</b></sub></a><br /></td>
+  </tr>
+</table>
+
 ## Author
 
 - **Achal Jhawar** - [https://github.com/achaljhawar](https://github.com/achaljhawar)
