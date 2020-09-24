@@ -173,7 +173,11 @@ Thanks goes to these wonderful people.
     <td align="center"><a href="https://github.com/120296Soumyaju"><img src="https://avatars2.githubusercontent.com/u/48637511?s=180&u=0191b32d231903f08918e1e5690b903331a898e8&v=4" width="100px;" alt=""/><br /><sub><b>Sujit Tadadikar </b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/Amarildoo"><img src="https://avatars0.githubusercontent.com/u/34867366?s=180&u=570814e30f05367f41f38cafc0a55b062e32423b&v=4" width="100px;" alt=""/><br /><sub><b>Amarildo Gjeçaj</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/shouryade"><img src="https://avatars0.githubusercontent.com/u/67991164?s=180&u=58b3040104aa4444c3c68e9891407b7c22e54b94&v=4" width="100px;" alt=""/><br /><sub><b>Shourya (AlphaQ)</b></sub></a><br /></td>
-  </tr>
+    <td align="center"><a href="https://github.com/Jean-carje"><img src="https://avatars0.githubusercontent.com/u/66575135?s=460&v=4" width="100px;" alt=""/><br /><sub><b>Jean Estevez</b></sub></a><br /></td>	  
+  </tr>	
+  <tr>
+    <td align="center"><a href="https://github.com/oppongjr"><img src="https://avatars0.githubusercontent.com/u/19373355?s=460&u=be810f39bb8064e416cf366df081a9a054de70b5&v=4" width="100px;" alt=""/><br /><sub><b>Isaac Akwasi Oppong Jnr</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/1realib"><img src="https://avatars2.githubusercontent.com/u/69173806?s=460&u=529b5cc3f355c0ced85f4c86b8873f1c128d4d7f&v=4" width="100px;" alt=""/><br /><sub><b>Ibrahim</b></sub></a><br /></td> 	  
 </table>
 
 
