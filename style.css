@@ -112,14 +112,14 @@ a.nav-link{
 	padding: 20px;
 }
 
-.intro  p{
+.intro  p, h3{
         margin: 5px;
 	font-size:1.2rem;
 	font-family: var(--main-font-family);
 	text-align:center;
 }
 
- h3{
+ h1 , h2{
 	padding-bottom: 15px;
         letter-spacing: normal;
         font-family: var(--main-font-family);
