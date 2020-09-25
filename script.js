@@ -1,9 +1,27 @@
 // header scrolling effect
-$(window).on("scroll", function () {
+/*$(window).on("scroll", function () {
   if ($(window).scrollTop()) {
     $("header").addClass("nav-show");
   } else {
     $("header").removeClass("nav-show");
+  }
+});*/
+
+let scroll_position = 0;
+let scrollingUp;
+
+let header = document.getElementById("header");
+
+window.addEventListener("scroll", (e) => {
+  scrollingUp =
+    document.body.getBoundingClientRect().top > scroll_position ? false : true;
+  scroll_position = document.body.getBoundingClientRect().top;
+  if (scrollingUp) {
+    header.classList.add("nav-show");
+  } else {
+    if (header.classList) {
+      header.classList.remove("nav-show");
+    }
   }
 });
 
