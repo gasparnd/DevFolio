@@ -185,7 +185,11 @@ Thanks goes to these wonderful people.
   </tr>	
   <tr>
     <td align="center"><a href="https://github.com/oppongjr"><img src="https://avatars0.githubusercontent.com/u/19373355?s=460&u=be810f39bb8064e416cf366df081a9a054de70b5&v=4" width="100px;" alt=""/><br /><sub><b>Isaac Akwasi Oppong Jnr</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/1realib"><img src="https://avatars2.githubusercontent.com/u/69173806?s=460&u=529b5cc3f355c0ced85f4c86b8873f1c128d4d7f&v=4" width="100px;" alt=""/><br /><sub><b>Ibrahim</b></sub></a><br /></td> 	  
+    <td align="center"><a href="https://github.com/1realib"><img src="https://avatars2.githubusercontent.com/u/69173806?s=460&u=529b5cc3f355c0ced85f4c86b8873f1c128d4d7f&v=4" width="100px;" alt=""/><br /><sub><b>Ibrahim</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/kapoordev"><img src="https://avatars3.githubusercontent.com/u/59065079?s=180&v=4" width="100px;" alt=""/><br /><sub><b>Kapoor Dev</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/Esther-Goldberg"><img src="https://avatars0.githubusercontent.com/u/30660571?s=180&u=a4c0a316f880336c1ac0538551745a81751cb7b6&v=4" width="100px;" alt=""/><br /><sub><b>Esther Goldberg</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/reveurguy"><img src="https://avatars1.githubusercontent.com/u/59417546?s=180&u=526fd0b4ef3afa4ceafce6d4d68f7ecc828a2d83&v=4" width="100px;" alt=""/><br /><sub><b>Priyanshu Singh</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/dan-hill2802"><img src="https://avatars2.githubusercontent.com/u/5046322?s=180&v=4" width="100px;" alt=""/><br /><sub><b>Daniel Hill</b></sub></a><br /></td>
 </table>
 
 
