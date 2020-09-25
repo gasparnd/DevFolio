@@ -161,7 +161,7 @@ Thanks goes to these wonderful people.
   <tr>
     <td align="center"><a href="https://github.com/SeraphicWolf"><img src="https://avatars1.githubusercontent.com/u/29392808?s=180&u=6bbb90ea2fa3549f6e63e266550084fd6b20fcff&v=4" width="100px;" alt=""/><br /><sub><b>Sebastian</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/GARVRC2005"><img src="https://avatars3.githubusercontent.com/u/71485440?s=180&u=bafc5164ca52a3632f7c7901f3e18b74bfa1331e&v=4" width="100px;" alt=""/><br /><sub><b>Garv Roy Choudhary</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/filippoferrando"><img src="https://avatars1.githubusercontent.com/u/26021902?s=180&u=4f622a3124ce23290e0dc0235dcba825cbe77ac6&v=4" width="100px;" alt=""/><br /><sub><b>Filippo Ferrando</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/ahhhfiq"><img src="https://avatars1.githubusercontent.com/u/15061663?s=180&v=4" width="100px;" alt=""/><br /><sub><b>ahhhfiq</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/shadowtime2000"><img src="https://avatars1.githubusercontent.com/u/66655515?s=180&v=4" width="100px;" alt=""/><br /><sub><b>Shadowtime2000</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/devded"><img src="https://avatars1.githubusercontent.com/u/60034035?s=180&u=affce39ad96481fd4d85c2fe9262e4400c1c5213&v=4" width="100px;" alt=""/><br /><sub><b>Dedar Alam</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/GJG"><img src="https://avatars1.githubusercontent.com/u/5757822?s=180&u=f6c0e00bded4fdab56ca8f14c165926d73f8eb08&v=4" width="100px;" alt=""/><br /><sub><b>Guðmundur Jón Guðjónsson</b></sub></a><br /></td>
