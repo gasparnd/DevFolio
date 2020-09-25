@@ -22,21 +22,17 @@ You can add more things to make it even cooler! The comments in the code will he
 
 ## Getting Started 🚀
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-## Downloading Template
-To download and use this template you could use `git clone` or `npx degit` to download this template to fill it out. You could also just fork this repository on Github.
-
+## How To Use 🔧
+From your command line, first clone DevFolio:
 ```bash
 # Clone this repository
-$ git clone https://github.com/achaljhawar/DevFolio.git
+$ git clone https://github.com/cobidev/DevFolio
 
 # Go into the repository
 $ cd DevFolio
 
-# Install dependencies
-$ npm install
-
-#Start's development server
-$ npm start
+# Remove current origin repository
+$ git remote remove origin
 ```
 ## Template Instructions:
 Go to `/index.html` and fill your information, there are 3 sections:
