@@ -208,6 +208,7 @@ a.nav-link{
 	width: 30rem;
 	height: auto;
 	flex-direction: column;
+	align-items: center;
 	padding: 1em;
 }
 
@@ -234,8 +235,6 @@ a.nav-link{
 .work-link{
 	text-decoration: none;
 	font-size: calc(1em + 1vw);
-	display: flex;
-	justify-content: center;
 	color: var(--main-fonts-color);
 }
 
@@ -366,9 +365,7 @@ hr {
 ──────────────────*/
 
 @media only screen and (max-width: 1484px) and (min-width: 1214px) {
-	.work{
-        /*padding:20px 20%;*/
-    }
+	
 }
 @media only screen and (max-width: 1214px) and (min-width: 1000px) {
     
@@ -376,11 +373,18 @@ hr {
 
 @media screen and (max-width: 767px) {
 
+	.work{
+        padding:20px 10%;
+    }
+
 	.card {
     	display: block;
-    	/*flex-direction: column;*/
-    	width: 100%;
     	height: auto;
+    	width: 100%;
+    }
+
+    .simple-card {
+    	width: 100%;
     }
 
     .card figure {
