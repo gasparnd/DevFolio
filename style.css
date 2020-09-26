@@ -180,7 +180,7 @@ a.nav-link{
 }
 #projects p{
 	font-family: var(--main-font-family);
-	font-size: calc(1em + .5vw);
+	font-size: calc(1em + .4vw);
 	padding: 0 0 1em;
 }
 
@@ -193,42 +193,45 @@ a.nav-link{
 	padding: 20px;
 }
 
-.card{
+.card,.simple-card{
 	display: flex;
-	margin: 20px 0;
+	justify-content: space-between;
+	margin: 20px .5em;
 	width: 90%;
-	min-height: 20rem;
+	height: 20rem;
 	border-radius:12px;
 	overflow: hidden;
     background:var(--main-decor-color);
 }
 
+.simple-card {
+	width: 30rem;
+	height: auto;
+	flex-direction: column;
+	padding: 1em;
+}
+
 .card figure {
-	position: relative;
 	width: 50%;
 }
 
 .card img{
 	object-fit: cover;
-	max-width: 100%;
-	position: absolute;
-	top: 0;
-	left: 0;
-	bottom: 0;
-	right: 0;
+	width: 100%;
+	height: 100%;
 }
 
 .work-content{
 	text-align: center;
+	align-items: center;
 	flex-direction: column;
 	padding: 10px 5px;
 	width: 50%;
 	color: var(--main-fonts-color);
 	font-family: var(--main-font-family);
-	/*cursor: pointer;*/
 }
 
-.work-content a{
+.work-link{
 	text-decoration: none;
 	font-size: calc(1em + 1vw);
 	display: flex;
@@ -236,7 +239,7 @@ a.nav-link{
 	color: var(--main-fonts-color);
 }
 
-.card:hover{
+.card:hover,.simple-card:hover{
 	box-shadow: 0 0 1.5rem gray;
 }
 
@@ -374,20 +377,23 @@ hr {
 @media screen and (max-width: 767px) {
 
 	.card {
-    	
+    	display: block;
+    	/*flex-direction: column;*/
     	width: 100%;
-    	
+    	height: auto;
     }
 
     .card figure {
     	width: 100%;
-    	height: 50%;
+    	height: auto;
     }
 
-
+    .work-img {
+    	height: auto;
+    }
 
     .work-content {
-    	height: 50%;
+    	height: 60%;
     	width: 100%;
     }
 
