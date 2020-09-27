@@ -190,7 +190,7 @@ Once you have done with your setup. You need to put your website online!
 
 I highly recommend to use [Github Pages](https://pages.github.com/) to achieve this on the EASIEST WAY.
 
-## Author
+## Authors
 
 <table>
   <tr>
