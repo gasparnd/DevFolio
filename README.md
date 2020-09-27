@@ -9,8 +9,9 @@ This is a developer portfolio website template.Made by Lilykhan for repl.it temp
 - **HTML5**
 - Pure **CSS3**
 - Bit of **JavaScript**
-<p>You can add more things to make it even cooler! The comments in the code will help you navigate through it. Have a nice day! :D
-[Demo Example](https://achaljhawar.github.io/DevFolio/)</p>
+
+You can add more things to make it even cooler! The comments in the code will help you navigate through it. Have a nice day! :D
+[Demo Example](https://achaljhawar.github.io/DevFolio/)
 
 ## Sections
 
