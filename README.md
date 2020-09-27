@@ -82,13 +82,13 @@ Go to `/index.html` and fill your information, there are 3 sections:
 
 ```html
 <div id="projects">
-              <h2>
-                My Projects
-                <hr />
-              </h2>
-              <p>Here are some of my projects, you may like.</p>
-              <div class="work-box">
-                <div class="work">
+             <h2>
+               My Projects
+               <hr />
+             </h2>
+             <p>Here are some of my projects, you may like.</p>
+             <div class="work-box">
+               <div class="work">
     <!--───────────────card───────────────-->
             <div class="card">
                 <figure>
@@ -104,7 +104,7 @@ Go to `/index.html` and fill your information, there are 3 sections:
                   </div>
             <div class="card">
               <figure>
-                  <img class="work-img" src="https://images.unsplash.com/photo-                   1462642109801-4ac2971a3a51?ixlib=rb-            1.2.1&auto=format&fit=crop&w=1266&q=80">
+                  <img class="work-img" src="https://images.unsplash.com/photo-1462642109801-4ac2971a3a51?ixlib=rb-1.2.1&auto=format&fit=crop&w=1266&q=80">
                 </figure>
                 <div class="work-content">
                   <h3 class="work-title">Project Title</h3>
