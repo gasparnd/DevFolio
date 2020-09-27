@@ -2,7 +2,7 @@
 
 <p align ="center"><a href = "https://github.com/achaljhawar/DevFolio/graphs/contributors"><a href="https://github.com/achaljhawar/DevFolio/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/achaljhawar/DevFolio"></a><a href="https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fachaljhawar%2FDevFolio"><img alt="Twitter" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2F"></a><a href="https://github.com/achaljhawar/DevFolio/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/achaljhawar/DevFolio"></a><img src="https://img.shields.io/badge/awesomeness-extreme-green"><a href = "https://discord.gg/YRm6nn8"><img alt="Discord" src="https://img.shields.io/discord/758269170151587852"></a><a href = "https://github.com/achaljhawar/DevFolio/blob/master/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/achaljhawar/DevFolio?style=flat-square"></a><a href="https://achaljhawar.github.io/DevFolio/"><img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fachaljhawar.github.io%2FDevFolio%2F"></a><br><a href="https://github.com/achaljhawar?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/achaljhawar?style=social"></a></p>
 <br />
-This is a developer portfolio website template.Made by Likhyan for repl.it template jam.
+This is a developer portfolio website template.Made by Lilykhan for repl.it template jam.
 
 ## Made with:
 
