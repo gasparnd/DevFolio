@@ -37,7 +37,7 @@ From your command line, first clone DevFolio:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/cobidev/DevFolio
+$ git clone https://github.com/achaljhawar/DevFolio
 
 # Go into the repository
 $ cd DevFolio
