@@ -270,4 +270,4 @@ Thanks goes to these wonderful people.
 </table>
 
 ## References 👏🏻
-- Some Design ,Implementation Ideas and READNEA are taken from <a href="https://repl.it/talk/templates/Portfolio-Site-Template/37272">Lilykhan's Portfolio Site Template</a> made for repl.it template jam.
+- Some Design and Implementation Ideas are taken from <a href="https://repl.it/talk/templates/Portfolio-Site-Template/37272">Lilykhan's Portfolio Site Template</a> made for repl.it template jam.
