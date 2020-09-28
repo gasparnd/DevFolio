@@ -2,9 +2,10 @@
 
 <p align ="center"><a href = "https://github.com/achaljhawar/DevFolio/graphs/contributors"><a href="https://github.com/achaljhawar/DevFolio/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/achaljhawar/DevFolio"></a><a href="https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fachaljhawar%2FDevFolio"><img alt="Twitter" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2F"></a><a href="https://github.com/achaljhawar/DevFolio/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/achaljhawar/DevFolio"></a><img src="https://img.shields.io/badge/awesomeness-extreme-green"><a href = "https://discord.gg/YRm6nn8"><img alt="Discord" src="https://img.shields.io/discord/758269170151587852"></a><a href = "https://github.com/achaljhawar/DevFolio/blob/master/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/achaljhawar/DevFolio?style=flat-square"></a><a href="https://achaljhawar.github.io/DevFolio/"><img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fachaljhawar.github.io%2FDevFolio%2F"></a><br><a href="https://github.com/achaljhawar?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/achaljhawar?style=social"></a></p>
 <br />
-This is a developer portfolio website template in which is simple-to-use . Made by Lilykhan for repl.it template jam and authored on Github by me.
 
-## Made with:
+##  A minimal portfolio template for Developers!
+
+## Built in:
 
 - **HTML5**
 - Pure **CSS3**
@@ -267,3 +268,6 @@ Thanks goes to these wonderful people.
     <tr>
       <td align="center"><a href="https://github.com/Y-KUN-21"><img src="https://avatars0.githubusercontent.com/u/57254049?s=180&u=d9feb4ab2eefe1e998f8bed122488cb9d5bafa12&v=4" width="100px;" alt=""/><br /><sub><b>Y-Kun 21</b></sub></a><br /></td>
 </table>
+
+## References 👏🏻
+- Some Design ,Implementation Ideas and READNEA are taken from <a href="https://repl.it/talk/templates/Portfolio-Site-Template/37272">Lilykhan's Portfolio Site Template</a> made for repl.it template jam.
