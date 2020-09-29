@@ -1,12 +1,3 @@
-// header scrolling effect
-/*$(window).on("scroll", function () {
-  if ($(window).scrollTop()) {
-    $("header").addClass("nav-show");
-  } else {
-    $("header").removeClass("nav-show");
-  }
-});*/
-
 let scroll_position = 0;
 let scrollingUp;
 
